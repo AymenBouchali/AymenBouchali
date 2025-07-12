@@ -77,8 +77,6 @@ I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Fu
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouchali&theme=react)
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouchali&theme=react)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
